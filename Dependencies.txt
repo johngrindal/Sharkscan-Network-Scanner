@@ -1,0 +1,9 @@
+###DEPENDENCIES###
+
+
+
+--  ruby -- most modern versions will work
+
+--  net-ping gem --
+
+--  socket --
