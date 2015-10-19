@@ -1,6 +1,7 @@
 #MAIN SHARKSCAN SCRIPT
 #CREATED BY JOHN GRINDAL
 #BITBUCKET --- https://bitbucket.org/Sharkscan_Development/
+#GITHUB --- https://github.com/johngrindal/Sharkscan-Network-Scanner
 
 #encoding: utf-8
 
